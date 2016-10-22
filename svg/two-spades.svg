@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="227px" height="315px" viewBox="0 0 227 315" enable-background="new 0 0 227 315" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="227px"
+	 height="315px" viewBox="0 0 227 315" enable-background="new 0 0 227 315" xml:space="preserve">
 <symbol  id="clubs" viewBox="-11.089 -11.846 22.179 23.691">
 	<path d="M0.076-11.846h-2.951c0,0,2.019,4.262,2.019,7.857c0,0.711-0.403,0.53-0.46,0.004c-0.217-1.981-1.856-4.288-4.857-4.168
 		c-3.653,0.145-4.915,2.93-4.915,5.221c0,1.702,0.89,5.168,4.671,5.309c1.202,0.045,2.285-0.327,2.925-0.875
@@ -30,8 +30,16 @@
 	
 		<use xlink:href="#spades"  width="18.957" height="23.661" x="-9.479" y="-11.83" transform="matrix(2.0023 0 0 2.0023 4.882812e-04 -4.882812e-04)" overflow="visible"/>
 </symbol>
-<use xlink:href="#spades"  width="18.957" height="23.661" x="-9.479" y="-11.83" transform="matrix(1 0 0 -1 20 61)" overflow="visible"/>
-<use xlink:href="#spades"  width="18.957" height="23.661" x="-9.479" y="-11.83" transform="matrix(1 0 0 1 208 252)" overflow="visible"/>
-<use xlink:href="#spades-medium"  width="37.957" height="47.376" x="-18.978" y="-23.688" transform="matrix(1 0 0 -1 114 46)" overflow="visible"/>
-<use xlink:href="#spades-medium"  width="37.957" height="47.376" x="-18.978" y="-23.688" transform="matrix(1 0 0 1 114 266)" overflow="visible"/>
+<g id="Layer_2">
+</g>
+<g id="Layer_1">
+	
+		<use xlink:href="#spades"  width="18.957" height="23.661" x="-9.479" y="-11.83" transform="matrix(1 0 0 -1 20 61)" overflow="visible"/>
+	
+		<use xlink:href="#spades"  width="18.957" height="23.661" x="-9.479" y="-11.83" transform="matrix(1 0 0 1 208 252)" overflow="visible"/>
+	
+		<use xlink:href="#spades-medium"  width="37.957" height="47.376" x="-18.978" y="-23.688" transform="matrix(1 0 0 -1 114 46)" overflow="visible"/>
+	
+		<use xlink:href="#spades-medium"  width="37.957" height="47.376" x="-18.978" y="-23.688" transform="matrix(1 0 0 1 114 266)" overflow="visible"/>
+</g>
 </svg>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="227px" height="315px" viewBox="0 0 227 315" enable-background="new 0 0 227 315" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="227px"
+	 height="315px" viewBox="0 0 227 315" enable-background="new 0 0 227 315" xml:space="preserve">
 <symbol  id="clubs" viewBox="-11.089 -11.846 22.179 23.691">
 	<path d="M0.076-11.846h-2.951c0,0,2.019,4.262,2.019,7.857c0,0.711-0.403,0.53-0.46,0.004c-0.217-1.981-1.856-4.288-4.857-4.168
 		c-3.653,0.145-4.915,2.93-4.915,5.221c0,1.702,0.89,5.168,4.671,5.309c1.202,0.045,2.285-0.327,2.925-0.875
@@ -30,16 +30,32 @@
 		C-0.932-4.401-1.48-3.999-1.479-4.947c0-1.248-0.434-3.427-3.661-3.5c-3.039-0.069-4.351,2.423-4.339,4.595
 		c0.025,4.507,9.471,15.683,9.471,15.683"/>
 </symbol>
-<use xlink:href="#hearts"  width="21.869" height="23.314" x="-10.934" y="-11.657" transform="matrix(1 0 0 -1 20 61)" overflow="visible"/>
-<use xlink:href="#hearts"  width="21.869" height="23.314" x="-10.934" y="-11.657" transform="matrix(1 0 0 1 208 252)" overflow="visible"/>
-<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 62 46)" overflow="visible"/>
-<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 167 46)" overflow="visible"/>
-<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 62 121)" overflow="visible"/>
-<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 167 121)" overflow="visible"/>
-<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 1 62 192)" overflow="visible"/>
-<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 1 167 192)" overflow="visible"/>
-<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 1 62 269)" overflow="visible"/>
-<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 1 167 269)" overflow="visible"/>
-<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 114 84)" overflow="visible"/>
-<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 114 230)" overflow="visible"/>
+<g id="Layer_2">
+</g>
+<g id="Layer_1">
+	
+		<use xlink:href="#hearts"  width="21.869" height="23.314" x="-10.934" y="-11.657" transform="matrix(1 0 0 -1 20 61)" overflow="visible"/>
+	
+		<use xlink:href="#hearts"  width="21.869" height="23.314" x="-10.934" y="-11.657" transform="matrix(1 0 0 1 208 252)" overflow="visible"/>
+	
+		<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 62 46)" overflow="visible"/>
+	
+		<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 167 46)" overflow="visible"/>
+	
+		<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 62 121)" overflow="visible"/>
+	
+		<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 167 121)" overflow="visible"/>
+	
+		<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 1 62 192)" overflow="visible"/>
+	
+		<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 1 167 192)" overflow="visible"/>
+	
+		<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 1 62 269)" overflow="visible"/>
+	
+		<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 1 167 269)" overflow="visible"/>
+	
+		<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 114 84)" overflow="visible"/>
+	
+		<use xlink:href="#hearts-medium"  width="43.787" height="46.682" x="-21.894" y="-23.341" transform="matrix(1 0 0 -1 114 230)" overflow="visible"/>
+</g>
 </svg>
