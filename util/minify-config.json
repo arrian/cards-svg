@@ -1,0 +1,1 @@
+{"plugins": [{ "removeDimensions": true },{"cleanupIDs": {"remove": true,"minify": false}}]}

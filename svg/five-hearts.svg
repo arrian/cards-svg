@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="227" height="315" viewBox="0 0 227 315"><symbol id="a" viewBox="-10.934 -11.657 21.868 23.314"><path fill="#D40000" d="M0-11.657s4.999 6.392 6.686 8.509C9.635.55 10.935 2.963 10.935 6.399c0 3.217-2.825 5.256-5.339 5.259C.787 11.664 0 7.146 0 7.146s-.787 4.518-5.595 4.511c-2.515-.003-5.339-2.042-5.339-5.259 0-3.436 1.299-5.849 4.248-9.547C-4.998-5.266 0-11.657 0-11.657z"/></symbol><symbol id="b" viewBox="-21.892 -23.341 43.787 46.682"><use xlink:href="#a" width="21.868" height="23.314" x="-10.934" y="-11.657" transform="scale(2.0023)" overflow="visible"/></symbol><use xlink:href="#a" width="21.868" height="23.314" x="-10.934" y="-11.657" transform="matrix(1 0 0 -1 21 62)" overflow="visible"/><use xlink:href="#a" width="21.868" height="23.314" x="-10.934" y="-11.657" transform="translate(209 253)" overflow="visible"/><use xlink:href="#b" width="43.787" height="46.682" x="-21.892" y="-23.341" transform="matrix(1 0 0 -1 63 47)" overflow="visible"/><use xlink:href="#b" width="43.787" height="46.682" x="-21.892" y="-23.341" transform="matrix(1 0 0 -1 168 47)" overflow="visible"/><use xlink:href="#b" width="43.787" height="46.682" x="-21.892" y="-23.341" transform="translate(63 268)" overflow="visible"/><use xlink:href="#b" width="43.787" height="46.682" x="-21.892" y="-23.341" transform="translate(168 268)" overflow="visible"/><use xlink:href="#b" width="43.787" height="46.682" x="-21.892" y="-23.341" transform="matrix(1 0 0 -1 115 158)" overflow="visible"/><path fill="none" d="M3.946 11.779h33.411v39.516H3.946z"/><text transform="translate(10.618 43.283)" fill="#D40000" font-family="'ArialNarrow'" font-size="44">5</text><path fill="none" d="M192.589 261.298H226v39.516h-33.411z"/><text transform="rotate(180 109.663 134.655)" fill="#D40000" font-family="'ArialNarrow'" font-size="44">5</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 227 315">
+    <symbol id="hearts" viewBox="-10.934 -11.657 21.868 23.314">
+        <path fill="#D40000" d="M0-11.657s4.999 6.392 6.686 8.509C9.635.55 10.935 2.963 10.935 6.399c0 3.217-2.825 5.256-5.339 5.259C.787 11.664 0 7.146 0 7.146s-.787 4.518-5.595 4.511c-2.515-.003-5.339-2.042-5.339-5.259 0-3.436 1.299-5.849 4.248-9.547C-4.998-5.266 0-11.657 0-11.657z"/>
+    </symbol>
+    <symbol id="hearts-medium" viewBox="-21.892 -23.341 43.787 46.682">
+        <use xlink:href="#hearts" width="21.868" height="23.314" x="-10.934" y="-11.657" transform="scale(2.0023)" overflow="visible"/>
+    </symbol>
+    <use xlink:href="#hearts" width="21.868" height="23.314" x="-10.934" y="-11.657" transform="matrix(1 0 0 -1 21 62)" overflow="visible"/>
+    <use xlink:href="#hearts" width="21.868" height="23.314" x="-10.934" y="-11.657" transform="translate(209 253)" overflow="visible"/>
+    <use xlink:href="#hearts-medium" width="43.787" height="46.682" x="-21.892" y="-23.341" transform="matrix(1 0 0 -1 63 47)" overflow="visible"/>
+    <use xlink:href="#hearts-medium" width="43.787" height="46.682" x="-21.892" y="-23.341" transform="matrix(1 0 0 -1 168 47)" overflow="visible"/>
+    <use xlink:href="#hearts-medium" width="43.787" height="46.682" x="-21.892" y="-23.341" transform="translate(63 268)" overflow="visible"/>
+    <use xlink:href="#hearts-medium" width="43.787" height="46.682" x="-21.892" y="-23.341" transform="translate(168 268)" overflow="visible"/>
+    <use xlink:href="#hearts-medium" width="43.787" height="46.682" x="-21.892" y="-23.341" transform="matrix(1 0 0 -1 115 158)" overflow="visible"/>
+    <path fill="none" d="M3.946 11.779h33.411v39.516H3.946z"/>
+    <text transform="translate(10.618 43.283)" fill="#D40000" font-family="'ArialNarrow'" font-size="44">
+        5
+    </text>
+    <path fill="none" d="M192.589 261.298H226v39.516h-33.411z"/>
+    <text transform="rotate(180 109.663 134.655)" fill="#D40000" font-family="'ArialNarrow'" font-size="44">
+        5
+    </text>
+</svg>

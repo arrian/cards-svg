@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="227" height="315" viewBox="0 0 227 315"><symbol id="a" viewBox="-8.447 -11.626 16.895 23.251"><path fill="#D40000" d="M0 11.625S4.224 4.051 8.447 0C4.224-4.454 0-11.626 0-11.626S-4.224-4.454-8.447 0C-4.224 4.051 0 11.625 0 11.625z"/></symbol><symbol id="b" viewBox="-16.914 -23.279 33.828 46.555"><use xlink:href="#a" width="16.895" height="23.251" x="-8.447" y="-11.626" transform="scale(2.0023)" overflow="visible"/></symbol><use xlink:href="#a" width="16.895" height="23.251" x="-8.447" y="-11.626" transform="matrix(1 0 0 -1 19 62)" overflow="visible"/><use xlink:href="#a" width="16.895" height="23.251" x="-8.447" y="-11.626" transform="matrix(1 0 0 -1 207 253)" overflow="visible"/><use xlink:href="#b" width="33.828" height="46.555" x="-16.914" y="-23.279" transform="matrix(1 0 0 -1 113 47)" overflow="visible"/><use xlink:href="#b" width="33.828" height="46.555" x="-16.914" y="-23.279" transform="matrix(1 0 0 -1 113 268)" overflow="visible"/><path fill="none" d="M1.387 15.228h33.411v39.516H1.387z"/><text transform="translate(8.059 46.731)" fill="#D40000" font-family="'ArialNarrow'" font-size="44">2</text><path fill="none" d="M193.029 264.747h33.411v39.516h-33.411z"/><text transform="rotate(180 109.883 136.38)" fill="#D40000" font-family="'ArialNarrow'" font-size="44">2</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 227 315">
+    <symbol id="diamonds" viewBox="-8.447 -11.626 16.895 23.251">
+        <path fill="#D40000" d="M0 11.625S4.224 4.051 8.447 0C4.224-4.454 0-11.626 0-11.626S-4.224-4.454-8.447 0C-4.224 4.051 0 11.625 0 11.625z"/>
+    </symbol>
+    <symbol id="diamonds-medium" viewBox="-16.914 -23.279 33.828 46.555">
+        <use xlink:href="#diamonds" width="16.895" height="23.251" x="-8.447" y="-11.626" transform="scale(2.0023)" overflow="visible"/>
+    </symbol>
+    <use xlink:href="#diamonds" width="16.895" height="23.251" x="-8.447" y="-11.626" transform="matrix(1 0 0 -1 19 62)" overflow="visible"/>
+    <use xlink:href="#diamonds" width="16.895" height="23.251" x="-8.447" y="-11.626" transform="matrix(1 0 0 -1 207 253)" overflow="visible"/>
+    <use xlink:href="#diamonds-medium" width="33.828" height="46.555" x="-16.914" y="-23.279" transform="matrix(1 0 0 -1 113 47)" overflow="visible"/>
+    <use xlink:href="#diamonds-medium" width="33.828" height="46.555" x="-16.914" y="-23.279" transform="matrix(1 0 0 -1 113 268)" overflow="visible"/>
+    <path fill="none" d="M1.387 15.228h33.411v39.516H1.387z"/>
+    <text transform="translate(8.059 46.731)" fill="#D40000" font-family="'ArialNarrow'" font-size="44">
+        2
+    </text>
+    <path fill="none" d="M193.029 264.747h33.411v39.516h-33.411z"/>
+    <text transform="rotate(180 109.883 136.38)" fill="#D40000" font-family="'ArialNarrow'" font-size="44">
+        2
+    </text>
+</svg>

@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="227" height="315" viewBox="0 0 227 315"><symbol id="a" viewBox="-9.479 -11.83 18.957 23.661"><path d="M.007 11.831S9.453.656 9.478-3.852c.013-2.172-1.3-4.664-4.338-4.595-3.228.073-3.662 2.252-3.661 3.5 0 .948-.547.546-.56.383-.163-2.029 2.063-7.266 2.063-7.266h-5.964S-.756-6.593-.918-4.564c-.014.163-.562.565-.561-.383 0-1.248-.434-3.427-3.661-3.5-3.039-.069-4.351 2.423-4.339 4.595C-9.454.655-.008 11.831-.008 11.831"/></symbol><symbol id="b" viewBox="-18.979 -23.688 37.957 47.376"><use xlink:href="#a" width="18.957" height="23.661" x="-9.479" y="-11.83" transform="scale(2.0023)" overflow="visible"/></symbol><use xlink:href="#a" width="18.957" height="23.661" x="-9.479" y="-11.83" transform="matrix(1 0 0 -1 19 61)" overflow="visible"/><use xlink:href="#a" width="18.957" height="23.661" x="-9.479" y="-11.83" transform="translate(207 252)" overflow="visible"/><use xlink:href="#b" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="matrix(1 0 0 -1 61 46)" overflow="visible"/><use xlink:href="#b" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="matrix(1 0 0 -1 166 46)" overflow="visible"/><use xlink:href="#b" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="translate(61 266)" overflow="visible"/><use xlink:href="#b" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="translate(166 266)" overflow="visible"/><use xlink:href="#b" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="matrix(1 0 0 -1 166 157)" overflow="visible"/><use xlink:href="#b" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="matrix(1 0 0 -1 61 156)" overflow="visible"/><use xlink:href="#b" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="matrix(1 0 0 -1 113 84)" overflow="visible"/><path fill="none" d="M1.988 8.937h33.411v39.516H1.988z"/><text transform="translate(8.66 40.44)" font-family="'ArialNarrow'" font-size="44">7</text><path fill="none" d="M193.631 258.456h33.411v39.516h-33.411z"/><text transform="rotate(180 110.186 133.234)" font-family="'ArialNarrow'" font-size="44">7</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 227 315">
+    <symbol id="spades_2_" viewBox="-9.479 -11.83 18.957 23.661">
+        <path d="M.007 11.831S9.453.656 9.478-3.852c.013-2.172-1.3-4.664-4.338-4.595-3.228.073-3.662 2.252-3.661 3.5 0 .948-.547.546-.56.383-.163-2.029 2.063-7.266 2.063-7.266h-5.964S-.756-6.593-.918-4.564c-.014.163-.562.565-.561-.383 0-1.248-.434-3.427-3.661-3.5-3.039-.069-4.351 2.423-4.339 4.595C-9.454.655-.008 11.831-.008 11.831"/>
+    </symbol>
+    <symbol id="spades-medium_1_" viewBox="-18.979 -23.688 37.957 47.376">
+        <use xlink:href="#spades_2_" width="18.957" height="23.661" x="-9.479" y="-11.83" transform="scale(2.0023)" overflow="visible"/>
+    </symbol>
+    <use xlink:href="#spades_2_" width="18.957" height="23.661" x="-9.479" y="-11.83" transform="matrix(1 0 0 -1 19 61)" overflow="visible"/>
+    <use xlink:href="#spades_2_" width="18.957" height="23.661" x="-9.479" y="-11.83" transform="translate(207 252)" overflow="visible"/>
+    <use xlink:href="#spades-medium_1_" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="matrix(1 0 0 -1 61 46)" overflow="visible"/>
+    <use xlink:href="#spades-medium_1_" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="matrix(1 0 0 -1 166 46)" overflow="visible"/>
+    <use xlink:href="#spades-medium_1_" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="translate(61 266)" overflow="visible"/>
+    <use xlink:href="#spades-medium_1_" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="translate(166 266)" overflow="visible"/>
+    <use xlink:href="#spades-medium_1_" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="matrix(1 0 0 -1 166 157)" overflow="visible"/>
+    <use xlink:href="#spades-medium_1_" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="matrix(1 0 0 -1 61 156)" overflow="visible"/>
+    <use xlink:href="#spades-medium_1_" width="37.957" height="47.376" x="-18.979" y="-23.688" transform="matrix(1 0 0 -1 113 84)" overflow="visible"/>
+    <path fill="none" d="M1.988 8.937h33.411v39.516H1.988z"/>
+    <text transform="translate(8.66 40.44)" font-family="'ArialNarrow'" font-size="44">
+        7
+    </text>
+    <path fill="none" d="M193.631 258.456h33.411v39.516h-33.411z"/>
+    <text transform="rotate(180 110.186 133.234)" font-family="'ArialNarrow'" font-size="44">
+        7
+    </text>
+</svg>
